@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Components/Header';
 import Navigation from './Components/Navigation';
-//import Image from './Components/Image';
-//import alok from './img/alok.jpg'
+import Image from './Components/Image';
+import alok from './img/alok.jpg'
 
 class App extends Component {
   
